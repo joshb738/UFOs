@@ -23,7 +23,7 @@ The purpose of this analysis is to develop an interactive webpage that provides 
   <img src="static/images/Filter2.PNG" width="900"/>
 </p>
 
-**Limitations:**
+### Limitations:
 The user must adhere to the following filter field parameters in order to return the correct results:
 
 **Date** 
