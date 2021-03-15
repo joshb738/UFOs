@@ -13,14 +13,15 @@ The purpose of this analysis is to develop an interactive webpage that provides 
 
 - The interactive filters allow user to enter the desired criteria into a field which will automatically return the results when the user proceeds to click on the following field or anywhere on the webpage.
 
+**Filter by Single Criteria**
 <p align="center">
-  <img src="" width="900"/> 
+  <img src="static/images/Filter1.PNG" width="900"/> 
 </p>
 
-Filter by Multiple criteria
+**Filter by Multiple criteria**
 
 <p align="center">
-  <img src="" width="900"/>
+  <img src="static/images/Filter2.PNG" width="900"/>
 </p>
 
 Limitations:
