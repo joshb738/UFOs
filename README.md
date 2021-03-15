@@ -10,8 +10,6 @@ The purpose of this analysis is to develop an interactive webpage that provides 
 - Programming Languages: HTML/CSS, JavaScript, BootStrap 4.0.0
 
 ## Results
-[The Truth Is Out There](
-
 - The interactive filters allow the user to enter the desired criteria into a field which will automatically return the results when the user proceeds to click on the following field or anywhere on the webpage.
 
 **Filter by Single Criteria**
@@ -25,8 +23,7 @@ The purpose of this analysis is to develop an interactive webpage that provides 
   <img src="static/images/Filter2.PNG" width="900"/>
 </p>
 
-Limitations:
-
+**Limitations:**
 The user must adhere to the following filter field parameters in order to return the correct results:
 
 **Date** 
@@ -45,7 +42,7 @@ The user must adhere to the following filter field parameters in order to return
 - input must be lowercase abbreviation without symbols
 - e.g. United States = us
 
-**Shape
+**Shape**
 - input must be lowercase with full spelling
 - e.g. cirlce, light, triangle 
 
@@ -67,5 +64,4 @@ One evident drawback of the current design are all the filter fields are user-in
 
 ### Modifying the input fields to force case-sensitivity for filters.
 
-5. CSS to the rescue - (https://www.the-art-of-web.com/html/input-field-uppercase/)
-Ref.Lines: [65, 70, 75, 80, 85](index.html)
+- Ref.Lines: [65, 70, 75, 80, 85](index.html): 5. CSS to the rescue - (https://www.the-art-of-web.com/html/input-field-uppercase/)
