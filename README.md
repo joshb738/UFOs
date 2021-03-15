@@ -10,7 +10,8 @@ The purpose of this analysis is to develop an interactive webpage that provides 
 - Languages: JavaScript, HTML, CSS, BootStrap 4.0.0
 
 ## Results
-- The interactive filters allow the user to enter the desired criteria into a field which will automatically return the results when the user proceeds to click on the following field or anywhere on the webpage.
+
+The interactive filters allow the user to enter the desired criteria into a field which will automatically return the results when the user proceeds to click on the following field or anywhere on the webpage.
 
 **Filter by Single Criteria**
 <p align="center">
