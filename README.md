@@ -5,13 +5,14 @@
 The purpose of this analysis is to develop an interactive webpage that provides details on UFO sightings. The webpage is equipped with a dynamic table that allows users to filter by multiple criteria at the same time. The user will be able to narrow down their search by a specific **Date, City, State, Country, or Shape**.
 
 ## Resources
-- Data Source: [UFO Sightings data]()
+- Data Source: [UFO Sightings data](static/js/data.js)
 - Software: Visual Studio Code 1.54.2
 - Programming Languages: HTML/CSS, JavaScript, BootStrap 4.0.0
 
 ## Results
+[The Truth Is Out There](
 
-- The interactive filters allow user to enter the desired criteria into a field which will automatically return the results when the user proceeds to click on the following field or anywhere on the webpage.
+- The interactive filters allow the user to enter the desired criteria into a field which will automatically return the results when the user proceeds to click on the following field or anywhere on the webpage.
 
 **Filter by Single Criteria**
 <p align="center">
@@ -62,9 +63,9 @@ One evident drawback of the current design are all the filter fields are user-in
 - Addition of a "Clear Filters" button.
 
 
-### Work Cited
+## Work Cited
 
 ### Modifying the input fields to force case-sensitivity for filters.
 
 5. CSS to the rescue - (https://www.the-art-of-web.com/html/input-field-uppercase/)
-Ref.Lines: [65, 70, 75, 80, 85]()
+Ref.Lines: [65, 70, 75, 80, 85](index.html)
