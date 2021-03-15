@@ -62,6 +62,6 @@ One evident drawback of the current design are all the filter fields are user-in
 
 ## Work Cited
 
-### Modifying the input fields to force case-sensitivity for filters.
+#### Modifying the input fields to force case-sensitivity for filters.
 
 - Ref.Lines: [65, 70, 75, 80, 85](index.html): 5. CSS to the rescue - (https://www.the-art-of-web.com/html/input-field-uppercase/)
