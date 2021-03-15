@@ -49,7 +49,7 @@ The user must adhere to the following filter field parameters in order to return
 
 ## Summary
 
-One evident drawback of the current design are all the filter fields are user-input free text. This means there is increased risk of user error input which may return incorrect or null search results. 
+One evident drawback of the current design are all the filter fields are user-input free text. This means there is increased risk of user input error which may return incorrect or null search results. 
 
 ### Suggestions for potential design improvements
 
