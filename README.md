@@ -7,7 +7,7 @@ The purpose of this analysis is to develop an interactive webpage that provides 
 ## Resources
 - Data Source: [UFO Sightings](static/js/data.js)
 - Software: Visual Studio Code 1.54.2
-- Programming Languages: JavaScript, HTML, CSS, BootStrap 4.0.0
+- Languages: JavaScript, HTML, CSS, BootStrap 4.0.0
 
 ## Results
 - The interactive filters allow the user to enter the desired criteria into a field which will automatically return the results when the user proceeds to click on the following field or anywhere on the webpage.
